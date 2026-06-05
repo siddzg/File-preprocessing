@@ -1,0 +1,51 @@
+Scheme_Category,Sub_Scheme_Category,Fund_Name,No_of_Schemes,No_of_Folios,Funds_Mobilized,Repurchase_Redemption,Net_Inflow_Outflow,Net_AUM,Average_Net_AUM,No_of_segregated_portfolios,Net_AUM_in_segregated_portfolio
+Open ended Schemes,Income/Debt Oriented Schemes,Overnight Fund,37,728222,699780.56,699526.31,254.25,79367.83,117317.69,0.0,0.0
+Open ended Schemes,Income/Debt Oriented Schemes,Liquid Fund,42,2435865,464668.91,511976.86,-47307.95,503143.33,575533.13,0.0,0.0
+Open ended Schemes,Income/Debt Oriented Schemes,Ultra Short Duration Fund,25,766379,24881.03,42529.18,-17648.16,131827.26,146522.96,0.0,0.0
+Open ended Schemes,Income/Debt Oriented Schemes,Low Duration Fund,23,851239,16806.6,27052.6,-10245.99,147063.58,154652.67,0.0,0.0
+Open ended Schemes,Income/Debt Oriented Schemes,Money Market Fund,26,524338,82193.01,122657.36,-40464.36,318352.49,343897.0,1.0,0.0
+Open ended Schemes,Income/Debt Oriented Schemes,Short Duration Fund,24,561636,3648.42,9338.03,-5689.61,136600.71,140221.98,0.0,0.0
+Open ended Schemes,Income/Debt Oriented Schemes,Medium Duration Fund,13,240819,412.92,642.24,-229.31,26252.29,26375.75,2.0,0.0
+Open ended Schemes,Income/Debt Oriented Schemes,Medium to Long Duration Fund,13,102111,61.1,249.06,-187.96,11692.14,11771.09,0.0,0.0
+Open ended Schemes,Income/Debt Oriented Schemes,Long Duration Fund,11,85438,70.76,1373.93,-1303.17,17608.27,17965.21,0.0,0.0
+Open ended Schemes,Income/Debt Oriented Schemes,Dynamic Bond Fund,22,232827,440.37,1283.45,-843.08,36108.34,36540.31,0.0,0.0
+Open ended Schemes,Income/Debt Oriented Schemes,Corporate Bond Fund,21,580979,3723.59,11143.09,-7419.51,207005.95,209245.4,0.0,0.0
+Open ended Schemes,Income/Debt Oriented Schemes,Credit Risk Fund,14,194207,130.16,302.77,-172.61,19929.94,19965.06,4.0,0.0
+Open ended Schemes,Income/Debt Oriented Schemes,Banking and PSU Fund,21,239818,769.57,1745.66,-976.09,79417.26,79512.42,0.0,0.0
+Open ended Schemes,Income/Debt Oriented Schemes,Gilt Fund,23,215424,516.59,1312.78,-796.19,38514.72,38808.93,0.0,0.0
+Open ended Schemes,Income/Debt Oriented Schemes,Gilt Fund with 10 year constant duration,5,37606,43.56,146.64,-103.07,4877.11,4929.85,0.0,0.0
+Open ended Schemes,Income/Debt Oriented Schemes,Floater Fund,12,198710,2723.29,2000.85,722.44,52217.24,51726.61,0.0,0.0
+Open ended Schemes,Growth/Equity Oriented Schemes,Multi Cap Fund,32,11173881,5163.28,2908.33,2254.95,223101.79,221480.12,0.0,0.0
+Open ended Schemes,Growth/Equity Oriented Schemes,Large Cap Fund,33,16870064,5499.6,3932.18,1567.42,418726.65,417491.58,0.0,0.0
+Open ended Schemes,Growth/Equity Oriented Schemes,Large & Mid Cap Fund,33,13297987,7079.16,2985.65,4093.51,331287.38,328384.34,0.0,0.0
+Open ended Schemes,Growth/Equity Oriented Schemes,Mid Cap Fund,31,23987318,9004.01,4828.2,4175.81,461271.23,458515.52,0.0,0.0
+Open ended Schemes,Growth/Equity Oriented Schemes,Small Cap Fund,33,27335457,8396.08,4572.26,3823.82,369003.09,366387.32,0.0,0.0
+Open ended Schemes,Growth/Equity Oriented Schemes,Dividend Yield Fund,10,1185004,299.86,554.18,-254.32,32862.76,32791.61,0.0,0.0
+Open ended Schemes,Growth/Equity Oriented Schemes,Value Fund/Contra Fund,25,8857029,3444.84,2356.33,1088.51,219127.72,217176.2,0.0,0.0
+Open ended Schemes,Growth/Equity Oriented Schemes,Focused Fund,28,5415223,2720.23,1663.41,1056.82,174834.13,174196.74,0.0,0.0
+Open ended Schemes,Growth/Equity Oriented Schemes,Sectoral/Thematic Funds,238,31747483,11033.94,10087.96,945.99,537666.6,535256.97,0.0,0.0
+Open ended Schemes,Growth/Equity Oriented Schemes,ELSS,42,16556812,1431.59,2149.32,-717.73,252700.01,252252.97,0.0,0.0
+Open ended Schemes,Growth/Equity Oriented Schemes,Flexi Cap Fund,44,22050009,14910.65,4891.38,10019.27,551962.17,546559.61,0.0,0.0
+Open ended Schemes,Hybrid Schemes,Conservative Hybrid Fund,18,575909,381.59,499.98,-118.39,29769.24,29829.43,1.0,0.0
+Open ended Schemes,Hybrid Schemes,Balanced Hybrid Fund/Aggressive Hybrid Fund,31,6134634,3824.21,2310.35,1513.86,253233.73,253602.36,1.0,0.0
+Open ended Schemes,Hybrid Schemes,Dynamic Asset Allocation/Balanced Advantage Fund,35,5595687,4660.78,3563.58,1097.2,323324.83,323093.25,0.0,0.0
+Open ended Schemes,Hybrid Schemes,Multi Asset Allocation Fund,33,4249832,8927.23,1501.25,7425.98,164730.83,173823.59,0.0,0.0
+Open ended Schemes,Hybrid Schemes,Arbitrage Fund,36,741825,26537.85,26411.54,126.31,278127.94,326834.54,0.0,0.0
+Open ended Schemes,Hybrid Schemes,Equity Savings Fund,25,525857,2578.17,1867.56,710.62,51235.17,54928.03,1.0,0.0
+Open ended Schemes,Solution Oriented Schemes,Retirement Fund,29,3042915,299.89,178.9,121.0,32828.51,32711.56,0.0,0.0
+Open ended Schemes,Solution Oriented Schemes,Childrens Fund,12,3191201,302.72,78.39,224.33,25626.16,25571.77,0.0,0.0
+Open ended Schemes,Other Schemes,Index Funds,352,14401091,10596.37,8865.87,1730.5,325821.4,323759.43,0.0,0.0
+Open ended Schemes,Other Schemes,GOLD ETF,25,10225561,11850.59,203.85,11646.74,127896.38,120867.22,0.0,0.0
+Open ended Schemes,Other Schemes,Other ETFs,286,23969652,25716.55,12517.11,13199.44,966503.97,947036.18,0.0,0.0
+Open ended Schemes,Other Schemes,Fund of funds investing overseas,52,1638654,829.62,683.05,146.57,36584.53,36466.87,0.0,0.0
+Close Ended Schemes,Income/Debt Oriented Schemes,Fixed Term Plan,71,56328,0.0,0.0,-0.0,14701.99,14669.49,0.0,0.0
+Close Ended Schemes,Income/Debt Oriented Schemes,Capital Protection Oriented Schemes,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Close Ended Schemes,Income/Debt Oriented Schemes,Infrastructure Debt Fund,3,19,0.0,0.0,0.0,903.45,901.08,0.0,0.0
+Close Ended Schemes,Income/Debt Oriented Schemes,Other Debt Scheme,1,179801,15.74,55.01,-39.27,5195.84,5243.3,0.0,0.0
+Close Ended Schemes,Growth/Equity Oriented Schemes,ELSS,15,252071,0.0,19.25,-19.25,4342.88,4334.93,0.0,0.0
+Close Ended Schemes,Growth/Equity Oriented Schemes,Other Equity Schemes,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Close Ended Schemes,Other Schemes,,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Interval Schemes,Income/Debt Oriented Schemes,,3,914,0.0,0.0,0.0,30.16,39.15,0.0,0.0
+Interval Schemes,Growth/Equity Oriented Schemes,,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Interval Schemes,Other Schemes,,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fund of Funds Scheme (Domestic),,,127,8432466,15431.29,5181.03,10250.27,188244.46,183180.67,0.0,0.0
